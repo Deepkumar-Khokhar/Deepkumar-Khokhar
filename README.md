@@ -1,3 +1,5 @@
+![logo](https://github.com/Deepkumar-Khokhar/Deepkumar-Khokhar/blob/main/ME.png)
+
 # 💫 About Me:
 I’m currently Studying Computer Science and Engineering.
 
