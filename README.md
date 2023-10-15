@@ -1,3 +1,5 @@
+![Photo](https://res.cloudinary.com/dfkysqeul/image/upload/v1697388635/zfse28yx7ounopswh3tt.png)
+
 # 💫 About Me:
 I’m currently Studying Computer Science and Engineering.
 
